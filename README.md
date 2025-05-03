@@ -1,4 +1,7 @@
 ﻿# crypto-tracker
+Live Demo ( https://crypto-tracker-nbf5.vercel.app/ )
+
+ 
 📊 Data Structure (Redux State)
  {
   assets: [
@@ -30,15 +33,15 @@ Data Simulation: Mock WebSocket class
 Charts: Recharts (optional)
 
 📦 Setup & Run
+
 1. Clone the repo
 git clone https://github.com/StudentTahseenraza/crypto-tracker.git
 cd crypto-tracker
 
 3. Install dependencies
-
 npm install
-4. Run the app
 
+5. Run the app
 npm run dev
 
 🚀 Features
